@@ -1,4 +1,4 @@
-# Projeto de site responsivo usando Html5 e Css3
+# Responsive website project using Html5 and CSS3
 ## Web version
 
 <img src="./img/siteBitSports.png" width="500px" >
